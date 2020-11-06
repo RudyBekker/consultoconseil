@@ -1,0 +1,4 @@
+# Sitemap is also available on /sitemap.xml
+Sitemap: https://www.consultoconseil.fr/sitemap.xml
+User-agent: *
+
